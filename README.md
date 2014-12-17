@@ -3,4 +3,6 @@ codeigniter-gravatar
 
 Easy CI model that returns the url for a users gravatar.
 
-I'll add docs soon here are at justinrains.com . Thanks!
+How to use this code is at the top of the model file.
+
+Justin @justinrains
